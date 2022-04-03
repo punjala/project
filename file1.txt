@@ -1,2 +1,4 @@
 this is file of first
 and this is the main file
+this  is file of 3
+and this is edit
